@@ -1,0 +1,9 @@
+googlemaps
+folium
+bs4
+glob2
+selenium
+missingno
+nltk
+konlpy
+wordcloud

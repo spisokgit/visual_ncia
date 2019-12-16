@@ -1,0 +1,123 @@
+    1  conda install graphviz
+    2  conda install graphviz=0.13
+    3  pip install graphviz
+    4  jupyter notebook list
+    5  exit
+    6  $date
+    7  $ date
+    8  env
+    9  exit
+   10  jupyter notebook list
+   11  pip list 
+   12  apt-get list | grep nanum*
+   13  apt get list installed
+   14  apt-get list installed
+   15  apt list --installed
+   16  apt list --installed | grep *nanum*
+   17  apt list --installed | grep nanum
+   18  cd /opt/conda/lib/python3.7/site-packages/matplotlib/mpl-data/matplotlibrc
+   19  ls
+   20  cd /opt/conda/lib/python3.7/site-packages/matplotlib/mpl-data/matplotlibrc
+   21  cd /opt/conda/lib/python3.7/site-packages/matplotlib/mpl-data/
+   22  ls
+   23  vi matplotlibrc 
+   24  ls -la
+   25  vi matplotlibrc
+   26  vim matplotlibrc 
+   27  nano matplotlibrc 
+   28  ls
+   29  chmod +x matplotlibrc 
+   30  ls -al
+   31  nano matplotlibrc 
+   32  ./matplotlibrc
+   33  . ./matplotlibrc
+   34  ls
+   35  cd fonts
+   36  ls
+   37  cd ttf
+   38  ls
+   39  docker ps -a
+   40  upyter notebook list
+   41  jupyter notebook list
+   42  ls
+   43  cp /usr/share/fonts/truetype/nanum/NanumGothicCoding.ttf .
+   44  ls
+   45  jupyter notebook list
+   46  ls
+   47  cd ..
+   48  ls
+   49  cd ..
+   50  ls
+   51  cd fonts
+   52  ls
+   53  cd ttf
+   54  cp /usr/share/fonts/truetype/nanum/Nanum* .
+   55  ls
+   56  rm -rf /home/jovyan/.cache/matplotlib/*
+   57  cd ~/.config
+   58  ls
+   59  cd matplotlib/
+   60  ls
+   61  nano matplotlibrc
+   62  exit
+   63  jupyter notebook list
+   64  ㄷ턋
+   65  exit
+   66  jupyter notebook list
+   67  pwd
+   68  exit
+   69  jupyter notebook list
+   70  exit
+   71  jupyter notebook
+   72  jupyter notebook list
+
+
+
+   73  pip install selenium
+   74  sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list'
+   75  sudo apt-get update
+   76  sudo apt-get install google-chrome-stable
+   77  sudo rm -rf /etc/apt/sources.list.d/google.list
+   78  sudo apt-get clean
+   79  sudo apt-get update
+   80  sudo apt-get install -y unzip xvfb libxi6 libgconf-2-4
+   81  sudo curl -sS -o - https://dl-ssl.google.com/linux/linux_signing_key.pub | apt-key add
+   82  sudo apt-get install curl -y
+   83  sudo curl -sS -o - https://dl-ssl.google.com/linux/linux_signing_key.pub | apt-key add
+   84  sudo apt-get install gnupg
+   85  sudo curl -sS -o - https://dl-ssl.google.com/linux/linux_signing_key.pub | apt-key add
+   86  sudo echo "deb [arch=amd64]  http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list
+   87  sudo apt-get -y update
+   88  sudo apt-get -y install google-chrome-stable
+   89  wget https://chromedriver.storage.googleapis.com/2.41/chromedriver_linux64.zip
+   90  unzip chromedriver_linux64.zip
+   91  sudo mv chromedriver /usr/bin/chromedriver
+   92  sudo chown root:root /usr/bin/chromedriver
+   93  sudo chmod +x /usr/bin/chromedriver
+   94  pip install django
+   95  pip list --format=columns
+   96  pip list --format=columns | grep django
+   97  pip list  | grep django
+   98  sudo apt-get install default-jdk 
+   99  sudo curl -sS -o - https://dl-ssl.google.com/linux/linux_signing_key.pub | apt-key add
+  100  sudo echo "deb [arch=amd64]  http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list
+  101  sudo apt-get -y update
+  102  sudo apt-get -y install google-chrome-stable
+  103  wget https://chromedriver.storage.googleapis.com/2.41/chromedriver_linux64.zip
+  104  unzip chromedriver_linux64.zip
+  105  sudo mv chromedriver /usr/bin/chromedriver
+  106  sudo chown root:root /usr/bin/chromedriver
+  107  sudo chmod +x /usr/bin/chromedriver
+  108  wget https://selenium-release.storage.googleapis.com/3.13/selenium-server-standalone-3.13.0.jar
+  109  wget http://www.java2s.com/Code/JarDownload/testng/testng-6.8.7.jar.zip
+  110  unzip testng-6.8.7.jar.zip
+  111  xvfb-run java -Dwebdriver.chrome.driver=/usr/bin/chromedriver -jar selenium-server-standalone.jar
+  112  sudo xvfb-run java -Dwebdriver.chrome.driver=/usr/bin/chromedriver -jar selenium-server-standalone.jar
+  113  chromedriver --url-base=/wd/hub
+  114  ls -la /usr/bin/chromedriver
+  115  sudo pip install xlrd
+  116  udo apt-get install xvfb
+  117  sudo apt-get install xvfb
+  118  sudo pip install pyvirtualdisplay
+  119  pip install lxml
+
